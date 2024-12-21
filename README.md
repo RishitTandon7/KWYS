@@ -42,6 +42,10 @@ Welcome to **KWYS**, a state-of-the-art voice translation tool designed to break
 - **`kwys.py`**: Main script that integrates speech recognition, translation, and synthesis.
 - **`translate_speech()`**: Coordinates the translation of spoken input.
 - **`synthesize_speech()`**: Converts translated text into audible speech.
+
+
+### Stay Tuned for The RasberryPi version...
+
 - **`menu_selection()`**: Manages user interface for selecting languages.
 
 ### 📚 Documentation
